@@ -31,8 +31,6 @@ What's up guys I'm my-git9 and I am:
 <img width="200" height="200" src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" alt="trophy" />
   <img width="200" height="200" src="https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="trophy" />
   <img width="200" height="200" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="trophy" />
-  <img width="200" height="200" src="https://images.credly.com/size/680x680/images/3907f0ce-4e4b-44c9-8655-db11ea98cb8a/image.png" alt="trophy" />
-</p>
 
 
 <table><tr>
