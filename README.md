@@ -7,28 +7,24 @@
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=my-git9&theme=xcode" /> </div>
 
 -->
-<p align="center"> 
-  <img src="https://img.shields.io/github/followers/daniel-hutao?label=Followers" alt="follow" />
-  <img src="https://komarev.com/ghpvc/?username=daniel-hutao" alt="views" /> 
+<p align="left"> 
+  <img src="https://img.shields.io/github/followers/my-git9?label=Followers" alt="follow" />
+  <img src="https://komarev.com/ghpvc/?username=my-git9" alt="views" /> 
 </p>
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=daniel-hutao&row=1" alt="trophy" />
+<p align="left"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=my-git9&row=1" alt="trophy" />
 </p>
 
-What's up guys I'm Daniel Hu (胡涛 in Chinese) and I am:
+What's up guys I'm my-git9 and I am:
 
-- [Merico](https://www.merico.dev) DevOps Technologist;
-- [DevStream](https://github.com/devstream-io/devstream) PMC Member;
 - [KubeSphere](https://github.com/kubesphere/kubesphere) Community Member.
-
-More about me please go to [my website](https://www.danielhu.cn).
 
 ---
 
 - [My Badges](https://www.credly.com/users/li-xin.597fc9dd)
 
-<p align="center"> 
+<p align="left"> 
   <img width="200" height="200" src="https://images.credly.com/size/680x680/images/85286156-5fa6-458e-ae00-7887360a025d/image.png" alt="trophy" />
   <img width="200" height="200" src="https://images.credly.com/size/680x680/images/efde33d7-15b1-4761-82d4-d8fb8e851965/image.png" alt="trophy" />
   <img width="200" height="200" src="https://images.credly.com/size/680x680/images/3907f0ce-4e4b-44c9-8655-db11ea98cb8a/image.png" alt="trophy" />
