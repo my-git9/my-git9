@@ -3,6 +3,16 @@
 
 <div align="left"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=my-git9&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />  </div>
 
+<table><tr>
+  <td valign="top" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=my-git9&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
+  </td>
+    
+  <td valign="top" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=my-git9&hide_border=true&layout=compact&hide=javascript,html,css,scss" align="left" style="width: 100%" />
+  </td>
+</tr></table>  
+
 <!--
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=my-git9&theme=xcode" /> </div>
 
@@ -24,16 +34,6 @@ What's up guys I'm my-git9 and I am:
 - [Karmada](https://github.com/karmada-io) Community Member.
 
 ---
-
-<table><tr>
-  <td valign="top" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=my-git9&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
-  </td>
-    
-  <td valign="top" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=my-git9&hide_border=true&layout=compact&hide=javascript,html,css,scss" align="left" style="width: 100%" />
-  </td>
-</tr></table>  
 
 - [My Badges](https://www.credly.com/users/li-xin.597fc9dd)
 <p align="left"> 
