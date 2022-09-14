@@ -20,7 +20,7 @@
 What's up guys I'm my-git9 and I am:
 
 - [Kubernetes](https://github.com/kubernetes) Community Member.
-- [Isio](https://github.com/istio) Community Member.
+- [Istio](https://github.com/istio) Community Member.
 - [open-telemetry](https://github.com/open-telemetry) Community Member.
 - [Karmada](https://github.com/karmada-io) Community Member.
 ---
