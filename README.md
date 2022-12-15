@@ -23,6 +23,7 @@ What's up guys I'm my-git9 and I am:
 - [Istio](https://github.com/istio) Community Member.
 - [open-telemetry](https://github.com/open-telemetry) Community Member.
 - [Karmada](https://github.com/karmada-io) Community Member.
+- [Argo](https://github.com/argoproj) Community Member.
 ---
 <table><tr>
   <td valign="top" width="50%">
