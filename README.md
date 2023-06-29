@@ -24,6 +24,7 @@ What's up guys I'm my-git9 and I am:
 - [open-telemetry](https://github.com/open-telemetry) Community Member.
 - [Karmada](https://github.com/karmada-io) Community Member.
 - [Argo](https://github.com/argoproj) Community Member.
+- [Kubeedge](https://github.com/kubeedge) Community Member.
 ---
 <table><tr>
   <td valign="top" width="50%">
